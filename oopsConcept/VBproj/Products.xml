@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" ?>
+<Products>
+	<product>
+		<ID>1</ID>
+		<name>PR1</name>
+		<cost>10.00</cost>
+		<stock>25</stock>
+	</product>
+	<product>
+		<ID>2</ID>
+		<name>PR2</name>
+		<cost>10.00</cost>
+		<stock>25</stock>
+	</product>
+	<product>
+		<ID>3</ID>
+		<name>PR3</name>
+		<cost>10.00</cost>
+		<stock>25</stock>
+	</product>
+	<product>
+		<ID>4</ID>
+		<name>PR4</name>
+		<cost>10.00</cost>
+		<stock>25</stock>
+	</product>
+	<product>
+		<ID>5</ID>
+		<name>PR5</name>
+		<cost>10.00</cost>
+		<stock>25</stock>
+	</product>
+	<product>
+		<ID>6</ID>
+		<name>PR6</name>
+		<cost>10.00</cost>
+		<stock>25</stock>
+	</product>
+</Products>

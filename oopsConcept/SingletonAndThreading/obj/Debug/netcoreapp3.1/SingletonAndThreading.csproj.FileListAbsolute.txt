@@ -1,0 +1,14 @@
+D:\GIT FOLDER\GIT_oops\incubator\oopsConcept\SingletonAndThreading\bin\Debug\netcoreapp3.1\SingletonAndThreading.exe
+D:\GIT FOLDER\GIT_oops\incubator\oopsConcept\SingletonAndThreading\bin\Debug\netcoreapp3.1\SingletonAndThreading.deps.json
+D:\GIT FOLDER\GIT_oops\incubator\oopsConcept\SingletonAndThreading\bin\Debug\netcoreapp3.1\SingletonAndThreading.runtimeconfig.json
+D:\GIT FOLDER\GIT_oops\incubator\oopsConcept\SingletonAndThreading\bin\Debug\netcoreapp3.1\SingletonAndThreading.runtimeconfig.dev.json
+D:\GIT FOLDER\GIT_oops\incubator\oopsConcept\SingletonAndThreading\bin\Debug\netcoreapp3.1\SingletonAndThreading.dll
+D:\GIT FOLDER\GIT_oops\incubator\oopsConcept\SingletonAndThreading\bin\Debug\netcoreapp3.1\SingletonAndThreading.pdb
+D:\GIT FOLDER\GIT_oops\incubator\oopsConcept\SingletonAndThreading\obj\Debug\netcoreapp3.1\SingletonAndThreading.csproj.AssemblyReference.cache
+D:\GIT FOLDER\GIT_oops\incubator\oopsConcept\SingletonAndThreading\obj\Debug\netcoreapp3.1\SingletonAndThreading.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT FOLDER\GIT_oops\incubator\oopsConcept\SingletonAndThreading\obj\Debug\netcoreapp3.1\SingletonAndThreading.AssemblyInfoInputs.cache
+D:\GIT FOLDER\GIT_oops\incubator\oopsConcept\SingletonAndThreading\obj\Debug\netcoreapp3.1\SingletonAndThreading.AssemblyInfo.cs
+D:\GIT FOLDER\GIT_oops\incubator\oopsConcept\SingletonAndThreading\obj\Debug\netcoreapp3.1\SingletonAndThreading.csproj.CoreCompileInputs.cache
+D:\GIT FOLDER\GIT_oops\incubator\oopsConcept\SingletonAndThreading\obj\Debug\netcoreapp3.1\SingletonAndThreading.dll
+D:\GIT FOLDER\GIT_oops\incubator\oopsConcept\SingletonAndThreading\obj\Debug\netcoreapp3.1\SingletonAndThreading.pdb
+D:\GIT FOLDER\GIT_oops\incubator\oopsConcept\SingletonAndThreading\obj\Debug\netcoreapp3.1\SingletonAndThreading.genruntimeconfig.cache

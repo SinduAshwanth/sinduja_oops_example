@@ -1,0 +1,14 @@
+D:\GIT FOLDER\GIT_oops\incubator\oopsConcept\GenericCollections\bin\Debug\netcoreapp3.1\GenericCollections.exe
+D:\GIT FOLDER\GIT_oops\incubator\oopsConcept\GenericCollections\bin\Debug\netcoreapp3.1\GenericCollections.deps.json
+D:\GIT FOLDER\GIT_oops\incubator\oopsConcept\GenericCollections\bin\Debug\netcoreapp3.1\GenericCollections.runtimeconfig.json
+D:\GIT FOLDER\GIT_oops\incubator\oopsConcept\GenericCollections\bin\Debug\netcoreapp3.1\GenericCollections.runtimeconfig.dev.json
+D:\GIT FOLDER\GIT_oops\incubator\oopsConcept\GenericCollections\bin\Debug\netcoreapp3.1\GenericCollections.dll
+D:\GIT FOLDER\GIT_oops\incubator\oopsConcept\GenericCollections\bin\Debug\netcoreapp3.1\GenericCollections.pdb
+D:\GIT FOLDER\GIT_oops\incubator\oopsConcept\GenericCollections\obj\Debug\netcoreapp3.1\GenericCollections.csproj.AssemblyReference.cache
+D:\GIT FOLDER\GIT_oops\incubator\oopsConcept\GenericCollections\obj\Debug\netcoreapp3.1\GenericCollections.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT FOLDER\GIT_oops\incubator\oopsConcept\GenericCollections\obj\Debug\netcoreapp3.1\GenericCollections.AssemblyInfoInputs.cache
+D:\GIT FOLDER\GIT_oops\incubator\oopsConcept\GenericCollections\obj\Debug\netcoreapp3.1\GenericCollections.AssemblyInfo.cs
+D:\GIT FOLDER\GIT_oops\incubator\oopsConcept\GenericCollections\obj\Debug\netcoreapp3.1\GenericCollections.csproj.CoreCompileInputs.cache
+D:\GIT FOLDER\GIT_oops\incubator\oopsConcept\GenericCollections\obj\Debug\netcoreapp3.1\GenericCollections.dll
+D:\GIT FOLDER\GIT_oops\incubator\oopsConcept\GenericCollections\obj\Debug\netcoreapp3.1\GenericCollections.pdb
+D:\GIT FOLDER\GIT_oops\incubator\oopsConcept\GenericCollections\obj\Debug\netcoreapp3.1\GenericCollections.genruntimeconfig.cache
